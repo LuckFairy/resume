@@ -11,7 +11,7 @@ GitHub Pages的使用可点击到博客文章[GitHub Pages Introduction](http://
 关于我
 ---
 
-我是来自广州的前端开发工程师，2015年的计算机应用专业毕业生，2015年8月份开始第一份前端开发工作，至今已经有3年多前端开发经验。
+我是来自广州的前端开发工程师，2015年的计算机应用专业毕业生，2015年8月份开始第一份前端开发工作，至今已经有7-8年前端开发经验。
 
 有着坚实的前端开发基础，并且一直保持对新技术的学习热情。熟练使用HTML5、CSS3以及JavaScript(jQuery,Zepto)；对流行的前端开发框架，比如Bootstrap3和Foundation5都有实际开发项目；能熟练使用前端开发工具，比如Gulp.js、Seajs、webpack和Less等等；简单地学习了AngularJS和React，但更加喜欢轻巧、高性能、可组件化的MVVM框架Vue.js，并在实际的开发项目中使用；学习了Node.js(Express)、ECMAScript6，gulp等技术，希望在往后的开发项目中得到实践提升。
 
